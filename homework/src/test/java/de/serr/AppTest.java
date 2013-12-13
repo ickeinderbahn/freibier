@@ -1,4 +1,4 @@
-package it.wt;
+package de.serr;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
