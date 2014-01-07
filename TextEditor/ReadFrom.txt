@@ -1,0 +1,7 @@
+JAVA provides a rich set of libraries to create Graphical User Interface in platform independent way. In this article we'll look in SWING GUI controls.
+
+Audience
+In der aufregten Debatte gerät allerdings so manches durcheinander. Unmut über den umstandslosen Wechsel vom Politikgeschäft in die 
+lukrative Konzernwelt mischt sich mit der Kritik am angeblich selbstherrlichen Alleingang des Vorstandsvorsitzenden Rüdiger Grube. 
+Die Forderungen von Aufsichtsräten nach einem klaren Wort von Grube werden folglich als generelles Zeichen dafür gewertet, dass die 
+Pläne für eine Erweiterung des Vorstands und der Kandidat Pofalla im Kontrollgremium auf Ablehnung stoßen.

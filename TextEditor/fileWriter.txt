@@ -1,0 +1,2 @@
+das ist der Text, der ins File geschrieben werden soll.
+und noch eine Zeile ... Dave!.
