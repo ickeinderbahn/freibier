@@ -18,7 +18,7 @@ public class TestFileOperationUtilities {
 	}
 
 	@Test
-	public void testSaveFile() {
+	public void testSaveFile() throws Exception {
 		File fileToSave = new File("fileToSave.txt");
 		assertTrue(FileOperationUtilities.saveAs(fileToSave, "drinne"));
 	}
