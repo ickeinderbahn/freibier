@@ -5,7 +5,7 @@ import java.io.OutputStreamWriter;
 
 public abstract class FileOperationUtilities {
 
-	public static boolean saveAs(File fileToSave, String content) {
+	public static boolean saveAs(File fileToSave, String content) throws IOException {
 
 		FileOutputStream fOs = null;
 		OutputStreamWriter oSw = null;
@@ -19,16 +19,10 @@ public abstract class FileOperationUtilities {
 			e.printStackTrace();
 			return false;
 		} finally {
-			try {
 				if (fOs != null)
 					fOs.close();
 				if (oSw != null)
 					oSw.close();
-			} catch (IOException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			}
-
 		}
 
 	}
