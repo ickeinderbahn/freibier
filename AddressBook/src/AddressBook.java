@@ -82,7 +82,7 @@ public class AddressBook extends JFrame {
 			public void mouseClicked(MouseEvent arg0) {try {
 				statement.execute("INSERT INTO address (name, phone, street, city) VALUES ('neu', 'neu', 'neu', 'neu')");
 				DefaultTableModel model = (DefaultTableModel) table.getModel();
-				model.addRow(new Object[] { "neu", "neu", "neu", "neu", highestID});
+				model.addRow(new Object[] {highestID,  "neu", "neu", "neu", "neu"});
 				highestID++;
 			} catch (Exception e1) {
 				e1.printStackTrace();
