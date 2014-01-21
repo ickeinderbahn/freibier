@@ -1,2 +1,1 @@
-chess-kata
-==========
+http://www.frankwestphal.de/ftp/Westphal_Testgetriebene_Entwicklung.pdf
