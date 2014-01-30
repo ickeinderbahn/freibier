@@ -16,7 +16,7 @@ public class AnimalDoc extends Animal{
 		
 		for (int i = 0; i < ani.length; i++) {
 			ad.injectMedi(ani[i]);
-			ani[i].hatesTheseAnimals("others");
+			ani[i].hatesTheseAnimals("other");
 		}
 	}
 }

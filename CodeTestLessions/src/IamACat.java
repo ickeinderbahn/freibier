@@ -6,7 +6,7 @@ public class IamACat extends Animal{
 	}
 	
 	public void makeSomeNoise(){
-		System.out.println("Miauuuu kratzzzz fauchhhh!!");
+		System.out.println("Miauuuu kratzzz fauchhhh!!");
 	}
 	
 }

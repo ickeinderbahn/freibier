@@ -18,7 +18,7 @@ public class Animal {
 	}
 
 	public void makeSomeNoise() {
-		System.out.println("Make some noise ...! ");
+		System.out.println("Make some noise ...! "); 
 	}
 
 	public void setName(String nameIn) {

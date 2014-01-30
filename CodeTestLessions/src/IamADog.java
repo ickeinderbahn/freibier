@@ -5,7 +5,7 @@ public class IamADog extends Animal implements ImNotWild {
 	}
 
 	public void makeSomeNoise() {
-		System.out.println("Raff Wuff Klaefff Knurrrr!!");
+		System.out.println("Raff Wuff Klaefff Knurrr!!");
 	}
 
 	@Override

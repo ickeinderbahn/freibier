@@ -2,6 +2,6 @@
 public interface ImNotWild {
 	
 	void IPrefferHome();
-	void FoodInMyBowl(String food);
+	void FoodInMyBowl(String food); 
 
 }
