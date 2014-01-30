@@ -28,4 +28,10 @@ public class Animal {
 	public String getName() {
 		return name;
 	}
+	
+	public int simpleCalc(int i, int j){
+		int num;
+		num = i + j;
+		return num;
+	}
 }
